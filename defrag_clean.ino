@@ -37,7 +37,7 @@ void setup() {
   DigiKeyboard.delay(1000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1000);
-  DigiKeyboard.print("cleanmgr /sageset:17");
+  DigiKeyboard.print("cleanmgr /sageset:17"); 
   DigiKeyboard.delay(1300);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1300);
